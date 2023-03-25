@@ -2,7 +2,7 @@ pipeline {
 
   environment {
     dockerimagename = "laxmi4u/nodeapp"
-    dockerImage = ""
+    dockerImage = "v1"
   }
 
   agent any
